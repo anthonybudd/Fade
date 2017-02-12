@@ -20,6 +20,8 @@ key: the key that was shown earlier.
 
 ## Examples
 Set opacity to 0.95: http://example.com/?fade=on&opacity=0.95&key=e8P3vgHy6w
+
 Set opacity to 0.5: http://example.com/?fade=on&opacity=0.5&key=e8P3vgHy6w
+
 Disable the plugin: http://example.com/?fade=off&key=e8P3vgHy6w
 
